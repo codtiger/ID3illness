@@ -1,0 +1,28 @@
+C:\Users\hassan2000\Desktop\AI\AI\bin\Debug\AI.exe.config
+C:\Users\hassan2000\Desktop\AI\AI\bin\Debug\AI.exe
+C:\Users\hassan2000\Desktop\AI\AI\bin\Debug\AI.pdb
+C:\Users\hassan2000\Desktop\AI\AI\obj\Debug\AI.csprojResolveAssemblyReference.cache
+C:\Users\hassan2000\Desktop\AI\AI\obj\Debug\MainWindow.g.cs
+C:\Users\hassan2000\Desktop\AI\AI\obj\Debug\App.g.cs
+C:\Users\hassan2000\Desktop\AI\AI\obj\Debug\AI_MarkupCompile.cache
+C:\Users\hassan2000\Desktop\AI\AI\obj\Debug\AI_MarkupCompile.lref
+C:\Users\hassan2000\Desktop\AI\AI\obj\Debug\MainWindow.baml
+C:\Users\hassan2000\Desktop\AI\AI\obj\Debug\AI.g.resources
+C:\Users\hassan2000\Desktop\AI\AI\obj\Debug\AI.Properties.Resources.resources
+C:\Users\hassan2000\Desktop\AI\AI\obj\Debug\AI.csproj.GenerateResource.Cache
+C:\Users\hassan2000\Desktop\AI\AI\obj\Debug\AI.exe
+C:\Users\hassan2000\Desktop\AI\AI\obj\Debug\AI.pdb
+C:\Users\Lion\Documents\Visual Studio 2015\Projects\AI\AI\bin\Debug\AI.exe.config
+C:\Users\Lion\Documents\Visual Studio 2015\Projects\AI\AI\obj\Debug\AI.exe
+C:\Users\Lion\Documents\Visual Studio 2015\Projects\AI\AI\obj\Debug\AI.pdb
+C:\Users\Lion\Documents\Visual Studio 2015\Projects\AI\AI\bin\Debug\AI.exe
+C:\Users\Lion\Documents\Visual Studio 2015\Projects\AI\AI\bin\Debug\AI.pdb
+C:\Users\Lion\Documents\Visual Studio 2015\Projects\AI\AI\obj\Debug\AI.csprojResolveAssemblyReference.cache
+C:\Users\Lion\Documents\Visual Studio 2015\Projects\AI\AI\obj\Debug\MainWindow.g.cs
+C:\Users\Lion\Documents\Visual Studio 2015\Projects\AI\AI\obj\Debug\App.g.cs
+C:\Users\Lion\Documents\Visual Studio 2015\Projects\AI\AI\obj\Debug\AI_MarkupCompile.cache
+C:\Users\Lion\Documents\Visual Studio 2015\Projects\AI\AI\obj\Debug\AI_MarkupCompile.lref
+C:\Users\Lion\Documents\Visual Studio 2015\Projects\AI\AI\obj\Debug\MainWindow.baml
+C:\Users\Lion\Documents\Visual Studio 2015\Projects\AI\AI\obj\Debug\AI.g.resources
+C:\Users\Lion\Documents\Visual Studio 2015\Projects\AI\AI\obj\Debug\AI.Properties.Resources.resources
+C:\Users\Lion\Documents\Visual Studio 2015\Projects\AI\AI\obj\Debug\AI.csproj.GenerateResource.Cache
